@@ -1,0 +1,314 @@
+
+images.png
+size: 8192, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Death01
+  rotate: false
+  xy: 3171, 1188
+  size: 629, 526
+  orig: 629, 526
+  offset: 0, 0
+  index: -1
+Death02
+  rotate: false
+  xy: 0, 6
+  size: 629, 526
+  orig: 629, 526
+  offset: 0, 0
+  index: -1
+Death03
+  rotate: false
+  xy: 5058, 1188
+  size: 629, 526
+  orig: 629, 526
+  offset: 0, 0
+  index: -1
+Death04
+  rotate: false
+  xy: 629, 6
+  size: 629, 526
+  orig: 629, 526
+  offset: 0, 0
+  index: -1
+Death05
+  rotate: false
+  xy: 0, 532
+  size: 629, 526
+  orig: 629, 526
+  offset: 0, 0
+  index: -1
+Death06
+  rotate: false
+  xy: 3800, 1188
+  size: 629, 526
+  orig: 629, 526
+  offset: 0, 0
+  index: -1
+Death07
+  rotate: false
+  xy: 629, 532
+  size: 629, 526
+  orig: 629, 526
+  offset: 0, 0
+  index: -1
+Death08
+  rotate: false
+  xy: 5687, 1188
+  size: 629, 526
+  orig: 629, 526
+  offset: 0, 0
+  index: -1
+Death09
+  rotate: false
+  xy: 2542, 1188
+  size: 629, 526
+  orig: 629, 526
+  offset: 0, 0
+  index: -1
+Death10
+  rotate: false
+  xy: 1284, 1188
+  size: 629, 526
+  orig: 629, 526
+  offset: 0, 0
+  index: -1
+Death11
+  rotate: false
+  xy: 4429, 1188
+  size: 629, 526
+  orig: 629, 526
+  offset: 0, 0
+  index: -1
+Death12
+  rotate: false
+  xy: 1913, 1188
+  size: 629, 526
+  orig: 629, 526
+  offset: 0, 0
+  index: -1
+RobotDeath01
+  rotate: false
+  xy: 4068, 113
+  size: 562, 519
+  orig: 562, 519
+  offset: 0, 0
+  index: -1
+RobotDeath02
+  rotate: false
+  xy: 2382, 113
+  size: 562, 519
+  orig: 562, 519
+  offset: 0, 0
+  index: -1
+RobotDeath03
+  rotate: false
+  xy: 4686, 669
+  size: 562, 519
+  orig: 562, 519
+  offset: 0, 0
+  index: -1
+RobotDeath04
+  rotate: false
+  xy: 3506, 113
+  size: 562, 519
+  orig: 562, 519
+  offset: 0, 0
+  index: -1
+RobotDeath05
+  rotate: false
+  xy: 1258, 113
+  size: 562, 519
+  orig: 562, 519
+  offset: 0, 0
+  index: -1
+RobotDeath06
+  rotate: false
+  xy: 6240, 639
+  size: 562, 519
+  orig: 562, 519
+  offset: 0, 0
+  index: -1
+RobotDeath07
+  rotate: false
+  xy: 2944, 113
+  size: 562, 519
+  orig: 562, 519
+  offset: 0, 0
+  index: -1
+RobotDeath08
+  rotate: false
+  xy: 5248, 669
+  size: 562, 519
+  orig: 562, 519
+  offset: 0, 0
+  index: -1
+RobotDeath10
+  rotate: false
+  xy: 1820, 113
+  size: 562, 519
+  orig: 562, 519
+  offset: 0, 0
+  index: -1
+RobotDeath09
+  rotate: false
+  xy: 1820, 113
+  size: 562, 519
+  orig: 562, 519
+  offset: 0, 0
+  index: -1
+RobotShoot01
+  rotate: false
+  xy: 1851, 632
+  size: 567, 556
+  orig: 567, 556
+  offset: 0, 0
+  index: -1
+RobotShoot02
+  rotate: false
+  xy: 6316, 1158
+  size: 567, 556
+  orig: 567, 556
+  offset: 0, 0
+  index: -1
+RobotShoot03
+  rotate: false
+  xy: 2985, 632
+  size: 567, 556
+  orig: 567, 556
+  offset: 0, 0
+  index: -1
+RobotShoot04
+  rotate: false
+  xy: 7450, 1158
+  size: 567, 556
+  orig: 567, 556
+  offset: 0, 0
+  index: -1
+RobotShoot05
+  rotate: false
+  xy: 4119, 632
+  size: 567, 556
+  orig: 567, 556
+  offset: 0, 0
+  index: -1
+RobotShoot06
+  rotate: false
+  xy: 2418, 632
+  size: 567, 556
+  orig: 567, 556
+  offset: 0, 0
+  index: -1
+RobotShoot07
+  rotate: false
+  xy: 6883, 1158
+  size: 567, 556
+  orig: 567, 556
+  offset: 0, 0
+  index: -1
+RobotShoot08
+  rotate: false
+  xy: 3552, 632
+  size: 567, 556
+  orig: 567, 556
+  offset: 0, 0
+  index: -1
+RobotShoot09
+  rotate: false
+  xy: 1284, 632
+  size: 567, 556
+  orig: 567, 556
+  offset: 0, 0
+  index: -1
+ZombieWalk01
+  rotate: false
+  xy: 7662, 639
+  size: 430, 519
+  orig: 430, 519
+  offset: 0, 0
+  index: -1
+ZombieWalk02
+  rotate: false
+  xy: 6780, 120
+  size: 430, 519
+  orig: 430, 519
+  offset: 0, 0
+  index: -1
+ZombieWalk03
+  rotate: false
+  xy: 5060, 150
+  size: 430, 519
+  orig: 430, 519
+  offset: 0, 0
+  index: -1
+ZombieWalk04
+  rotate: false
+  xy: 6802, 639
+  size: 430, 519
+  orig: 430, 519
+  offset: 0, 0
+  index: -1
+ZombieWalk05
+  rotate: false
+  xy: 5920, 120
+  size: 430, 519
+  orig: 430, 519
+  offset: 0, 0
+  index: -1
+ZombieWalk06
+  rotate: false
+  xy: 4630, 113
+  size: 430, 519
+  orig: 430, 519
+  offset: 0, 0
+  index: -1
+ZombieWalk07
+  rotate: false
+  xy: 5810, 669
+  size: 430, 519
+  orig: 430, 519
+  offset: 0, 0
+  index: -1
+ZombieWalk08
+  rotate: false
+  xy: 5490, 150
+  size: 430, 519
+  orig: 430, 519
+  offset: 0, 0
+  index: -1
+ZombieWalk09
+  rotate: false
+  xy: 7232, 639
+  size: 430, 519
+  orig: 430, 519
+  offset: 0, 0
+  index: -1
+ZombieWalk10
+  rotate: false
+  xy: 6350, 120
+  size: 430, 519
+  orig: 430, 519
+  offset: 0, 0
+  index: -1
+deathCave
+  rotate: false
+  xy: 0, 1058
+  size: 1284, 656
+  orig: 1284, 656
+  offset: 0, 0
+  index: -1
+laserBlue03
+  rotate: false
+  xy: 0, 0
+  size: 25, 6
+  orig: 25, 6
+  offset: 0, 0
+  index: -1
+laserRed03
+  rotate: false
+  xy: 1258, 107
+  size: 25, 6
+  orig: 25, 6
+  offset: 0, 0
+  index: -1
